@@ -1,0 +1,47 @@
+/* Write your code here. */
+.main-container {
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(to right, #219a6f, #93f9b9);
+  height: 100vh;
+  justify-content: space-around;
+}
+h1 {
+  color: white;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.text {
+  width: 300px;
+}
+label {
+  color: white;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.input {
+  height: 5vh;
+  width: 400px;
+  color: #e4e7eb;
+  font-size: 17px;
+  font-family: Roboto;
+  font-weight: bold;
+  background-color: transparent;
+  border: solid 2px white;
+  border-radius: 3px;
+}
+
+.p {
+  height: 6vh;
+  width: 200px;
+  background-color: white;
+  color: #219a6f;
+  margin: 0px;
+  border-radius: 10px;
+}
+p {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
